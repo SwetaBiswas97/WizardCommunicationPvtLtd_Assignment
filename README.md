@@ -15,7 +15,7 @@ This ASP.NET MVC-based tool enables users to seamlessly import customer data fro
 - **Framework:** ASP.NET MVC
 - **Backend:** SQL Server / MySQL
 - **File Format:** `.xlsx`
-- **Package:** EPPlus.Core (for Excel parsing)
+- **Package:** EPPlus.Core (for Excel parsing), EntityFramework -Version 6.5.1
 
 ---
 
