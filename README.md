@@ -59,6 +59,8 @@ Install EPPlus.Core to handle Excel file operations:
 
 EPPlus parses `.xlsx` files without requiring Excel to be installed.
 
+Install EntityFramework -Version 6.5.1
+
 ---
 
 ## Database Setup (SQL Server)
